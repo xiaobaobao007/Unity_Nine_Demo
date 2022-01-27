@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 20733e9628eda8d49a0759d638e96c0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -118545091391190754
+    second: ranking_StatusBar_global_RETINA_0
+  - first:
+      213: 3125309045399717849
+    second: ranking_StatusBar_global_RETINA_1
+  - first:
+      213: 4945605529788536185
+    second: ranking_StatusBar_global_RETINA_2
+  - first:
+      213: 7758471304043884936
+    second: ranking_StatusBar_global_RETINA_3
+  - first:
+      213: -2396658219068106785
+    second: ranking_StatusBar_global_RETINA_4
+  - first:
+      213: -6196546676025239774
+    second: ranking_StatusBar_global_RETINA_5
+  - first:
+      213: 7993952920874225702
+    second: ranking_StatusBar_global_RETINA_6
+  - first:
+      213: 2052505179273533904
+    second: ranking_StatusBar_global_RETINA_7
+  - first:
+      213: 635339482297229588
+    second: ranking_StatusBar_global_RETINA_8
+  - first:
+      213: 6323705200105517431
+    second: ranking_StatusBar_global_RETINA_9
+  - first:
+      213: -4927052138768993014
+    second: ranking_StatusBar_global_RETINA_10
+  - first:
+      213: 4159279409841669805
+    second: ranking_StatusBar_global_RETINA_11
+  - first:
+      213: 2832387008339452795
+    second: ranking_StatusBar_global_RETINA_12
+  - first:
+      213: 3916222885590490539
+    second: ranking_StatusBar_global_RETINA_13
+  - first:
+      213: 9021893586629569859
+    second: ranking_StatusBar_global_RETINA_14
+  - first:
+      213: -8438738398389666481
+    second: ranking_StatusBar_global_RETINA_15
+  - first:
+      213: 6352336863113603072
+    second: ranking_StatusBar_global_RETINA_16
+  - first:
+      213: -6444884922017869434
+    second: ranking_StatusBar_global_RETINA_17
+  - first:
+      213: 5082812227398803859
+    second: ranking_StatusBar_global_RETINA_18
+  - first:
+      213: 8879424611195301513
+    second: ranking_StatusBar_global_RETINA_19
+  - first:
+      213: -3173617078498145211
+    second: ranking_StatusBar_global_RETINA_20
+  - first:
+      213: 4060454326002696288
+    second: ranking_StatusBar_global_RETINA_21
+  - first:
+      213: 53095274526401241
+    second: ranking_StatusBar_global_RETINA_22
+  - first:
+      213: 3412642187865951520
+    second: ranking_StatusBar_global_RETINA_23
+  - first:
+      213: -7880305922051033433
+    second: ranking_StatusBar_global_RETINA_24
+  - first:
+      213: -8596282811821749037
+    second: ranking_StatusBar_global_RETINA_25
+  - first:
+      213: 170014902192034111
+    second: ranking_StatusBar_global_RETINA_26
+  - first:
+      213: -6535030387300192299
+    second: ranking_StatusBar_global_RETINA_27
+  - first:
+      213: -169187405718055591
+    second: ranking_StatusBar_global_RETINA_28
+  - first:
+      213: 5051777624574290621
+    second: ranking_StatusBar_global_RETINA_29
+  - first:
+      213: -8404632781326566338
+    second: ranking_StatusBar_global_RETINA_30
+  - first:
+      213: -1687203574667569905
+    second: ranking_StatusBar_global_RETINA_31
+  - first:
+      213: 4066599371219021600
+    second: ranking_StatusBar_global_RETINA_32
+  - first:
+      213: 4136441178560854340
+    second: ranking_StatusBar_global_RETINA_33
+  - first:
+      213: 6766560419911403472
+    second: ranking_StatusBar_global_RETINA_34
+  - first:
+      213: -1929379728433777697
+    second: ranking_StatusBar_global_RETINA_35
+  - first:
+      213: 8253550162398803129
+    second: ranking_StatusBar_global_RETINA_36
+  - first:
+      213: 588908759689592852
+    second: ranking_StatusBar_global_RETINA_37
+  - first:
+      213: -3405100907826765734
+    second: ranking_StatusBar_global_RETINA_38
+  - first:
+      213: 5871204300135971604
+    second: ranking_StatusBar_global_RETINA_39
+  - first:
+      213: -651020459739266760
+    second: ranking_StatusBar_global_RETINA_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 592
+        height: 630
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1903c11ed7da5ef0800000000000000
+      internalID: -118545091391190754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_1
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1006
+        width: 329
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d78d58a4045f5b20800000000000000
+      internalID: 3125309045399717849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1009
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975d042c60252a440800000000000000
+      internalID: 4945605529788536185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_3
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 896
+        width: 290
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881f89d7b80abab60800000000000000
+      internalID: 7758471304043884936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_4
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 914
+        width: 121
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7dc6c3c0c5dbed0800000000000000
+      internalID: -2396658219068106785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_5
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 984
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227536df0a1710aa0800000000000000
+      internalID: -6196546676025239774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_6
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 962
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62097e7e3d930fe60800000000000000
+      internalID: 7993952920874225702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 833
+        width: 216
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d99f3ef596fb7c10800000000000000
+      internalID: 2052505179273533904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_8
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 837
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4116b1a94ed21d800800000000000000
+      internalID: 635339482297229588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_9
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 842
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7717494006052c750800000000000000
+      internalID: 6323705200105517431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_10
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 851
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0578d63f289f9bb0800000000000000
+      internalID: -4927052138768993014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 806
+        width: 176
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da68531269ab8b930800000000000000
+      internalID: 4159279409841669805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_12
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 713
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73218a3af8ae4720800000000000000
+      internalID: 2832387008339452795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 741
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad50e427f7395630800000000000000
+      internalID: 3916222885590490539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_14
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 762
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d2e60ca64343d70800000000000000
+      internalID: 9021893586629569859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_15
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 762
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4df883132493ea80800000000000000
+      internalID: -8438738398389666481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_16
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 766
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008618b88b8082850800000000000000
+      internalID: 6352336863113603072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_17
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 768
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6819ad45f4b2f86a0800000000000000
+      internalID: -6444884922017869434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_18
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 714
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3912e1a7ac6c98640800000000000000
+      internalID: 5082812227398803859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_19
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 715
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e282083ad0a3b70800000000000000
+      internalID: 8879424611195301513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_20
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 723
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c4107e41c05f3d0800000000000000
+      internalID: -3173617078498145211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 594
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060c61042b1a95830800000000000000
+      internalID: 4060454326002696288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 466
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2e561fed1acb000800000000000000
+      internalID: 53095274526401241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_23
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d03492df32c5f20800000000000000
+      internalID: 3412642187865951520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_24
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 264
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6bdbaf38783a290800000000000000
+      internalID: -7880305922051033433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_25
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 290
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc8194e35ed3b880800000000000000
+      internalID: -8596282811821749037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_26
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 264
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31ddab17a30c5200800000000000000
+      internalID: 170014902192034111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 160
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfa690ac78ee45a0800000000000000
+      internalID: -6535030387300192299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 168
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95594bd63fce6adf0800000000000000
+      internalID: -169187405718055591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_29
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 210
+        width: 246
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba640debf48b1640800000000000000
+      internalID: 5051777624574290621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_30
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 210
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c3d69d30fbc5b80800000000000000
+      internalID: -8404632781326566338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_31
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 209
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f059b2cb949d598e0800000000000000
+      internalID: -1687203574667569905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 122
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f265515967f6830800000000000000
+      internalID: 4066599371219021600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_33
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 74
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449fa6a0657976930800000000000000
+      internalID: 4136441178560854340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_34
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 115
+        width: 229
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d78904e9d6a7ed50800000000000000
+      internalID: 6766560419911403472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 119
+        width: 121
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd37dd9fb577935e0800000000000000
+      internalID: -1929379728433777697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4f5adb4208a8270800000000000000
+      internalID: 8253550162398803129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 23
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4100a6295693c2800800000000000000
+      internalID: 588908759689592852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 17
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5020ace3c6aeb0d0800000000000000
+      internalID: -3405100907826765734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_39
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 23
+        width: 229
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bb9593435ba7150800000000000000
+      internalID: 5871204300135971604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_StatusBar_global_RETINA_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 29
+        width: 121
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831cab3575c17f6f0800000000000000
+      internalID: -651020459739266760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d2014c75cb3fde84998811d48e44de2b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

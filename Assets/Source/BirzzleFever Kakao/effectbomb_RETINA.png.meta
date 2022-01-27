@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: ca41e8c15c3135542b3fbad7b6693927
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1578415776127286805
+    second: effectbomb_RETINA_0
+  - first:
+      213: -1954132005185680182
+    second: effectbomb_RETINA_1
+  - first:
+      213: 7219631916492404954
+    second: effectbomb_RETINA_2
+  - first:
+      213: 5097905949798484189
+    second: effectbomb_RETINA_3
+  - first:
+      213: 6422818628364484649
+    second: effectbomb_RETINA_4
+  - first:
+      213: -71227616850656084
+    second: effectbomb_RETINA_5
+  - first:
+      213: 4880700191609742199
+    second: effectbomb_RETINA_6
+  - first:
+      213: 6107390904388687131
+    second: effectbomb_RETINA_7
+  - first:
+      213: -6131943918197771644
+    second: effectbomb_RETINA_8
+  - first:
+      213: 5947475157393095934
+    second: effectbomb_RETINA_9
+  - first:
+      213: 3562863186992891358
+    second: effectbomb_RETINA_10
+  - first:
+      213: 2030183824015033679
+    second: effectbomb_RETINA_11
+  - first:
+      213: -7803609012959385355
+    second: effectbomb_RETINA_12
+  - first:
+      213: 92960006656009386
+    second: effectbomb_RETINA_13
+  - first:
+      213: -2881799039992621258
+    second: effectbomb_RETINA_14
+  - first:
+      213: 5292450075564749869
+    second: effectbomb_RETINA_15
+  - first:
+      213: -8427242456727040617
+    second: effectbomb_RETINA_16
+  - first:
+      213: -4399479263781435509
+    second: effectbomb_RETINA_17
+  - first:
+      213: 3323537357524225598
+    second: effectbomb_RETINA_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effectbomb_RETINA_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 946
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be18f04e637581ae0800000000000000
+      internalID: -1578415776127286805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 922
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc8fa27b4781e4e0800000000000000
+      internalID: -1954132005185680182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 906
+        width: 119
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad83a9f0af8413460800000000000000
+      internalID: 7219631916492404954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 898
+        width: 128
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8c61493766fb640800000000000000
+      internalID: 5097905949798484189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 768
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9204d60538f622950800000000000000
+      internalID: 6422818628364484649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 766
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca44b6f1cd2f20ff0800000000000000
+      internalID: -71227616850656084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 762
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773641817fabbb340800000000000000
+      internalID: 4880700191609742199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 626
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b151a805bafc1c450800000000000000
+      internalID: 6107390904388687131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 622
+        width: 142
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482743dae75f6eaa0800000000000000
+      internalID: -6131943918197771644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 620
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc30e2052da98250800000000000000
+      internalID: 5947475157393095934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 476
+        width: 146
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed507041135d17130800000000000000
+      internalID: 3562863186992891358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 473
+        width: 148
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45092b7e69ac2c10800000000000000
+      internalID: 2030183824015033679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_12
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 472
+        width: 150
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8e480b2f204b390800000000000000
+      internalID: -7803609012959385355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 323
+        width: 150
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4ac0f22a24a4100800000000000000
+      internalID: 92960006656009386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 322
+        width: 150
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6379d23aa0bc108d0800000000000000
+      internalID: -2881799039992621258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 321
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24b6899d4f827940800000000000000
+      internalID: 5292450075564749869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 286
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dc1b292ab6c0b80800000000000000
+      internalID: -8427242456727040617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 286
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b874c954be8e1f2c0800000000000000
+      internalID: -4399479263781435509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effectbomb_RETINA_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 286
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ec8f82e939f1e20800000000000000
+      internalID: 3323537357524225598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 57ee5a61f3ef278498aaecfac1ca5e5e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
